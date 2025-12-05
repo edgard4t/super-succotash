@@ -15,7 +15,7 @@ The follwing command must not return an error and needs to show the correct outp
 make
 ```
 
-*The exercise must be done using different branches* and opening a *Pull Request* in this github repository.
+**The exercise must be done using different branches** and opening a *Pull Request* in this github repository.
 
 I will be evaluating the code using said P.R.
 
