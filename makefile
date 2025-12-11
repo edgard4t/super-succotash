@@ -1,7 +1,7 @@
 # Compiler and flags
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -O2
-LDFLAGS =
+LDFLAGS = -lcurl
 
 # Target executable name
 TARGET = program
